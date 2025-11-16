@@ -1,0 +1,5 @@
+{
+  "name": "TaleemRadar",
+  "description": "An analytics tool for teachers. Paste 4 weeks of test data from your spreadsheet, and our AI will identify struggling students and generate personalized reports for parents.",
+  "requestFramePermissions": []
+}
